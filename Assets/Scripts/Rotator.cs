@@ -9,6 +9,7 @@ public class Rotator : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //仆元之予之仆元丑互
         Speed = 360.0f / Day;
     }
 
